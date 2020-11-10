@@ -1,0 +1,29 @@
+body {
+    scroll-behavior: smooth;
+}
+
+.content {
+    text-align: center;
+    padding-top: 10%;
+    background: url(https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2041&q=80);
+    background-size: cover;
+    background-position: center;
+}
+
+
+.title {
+    color: rgb(255, 255, 255);
+}
+
+.heading {
+    font-size: larger;
+}
+
+.position {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    color: aliceblue;
+}
