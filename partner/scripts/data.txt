@@ -1,0 +1,13 @@
+DATABASE NAME = project
+PASSWORD = 1234
+HOST = localhost
+TABLE NAME = bookshelf;
+
+TABLE CONTAINS 6 COLOUMNS
+
+COLOUMN 1 = book_id;
+COLOUMN 2 = book_name;
+COLOUMN 3 = author
+COLOUMN 4 = publication
+COLOUMN 5 = seller_name
+COLOUMN 6 = email

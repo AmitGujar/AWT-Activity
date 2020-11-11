@@ -19,6 +19,10 @@ body {
     font-size: 19px;
 }
 
+.button {
+    text-align: center;
+}
+
 .footer {
     background-color: #141414;
     color: #ddd3dd;
@@ -26,12 +30,12 @@ body {
 }
 
 .footer-headings {
-    font-size: 20px;
+    font-size: 19px;
     font-weight: bold;
 }
 
 .footer-subheadings {
-    font-size: 18px;
+    font-size: 17px;
 }
 
 .credits {
