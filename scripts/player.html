@@ -1,0 +1,31 @@
+<html>
+
+<head>
+    <script type="text/javascript" language="javascript">
+        function findplayer(str) {
+            var req = new XMLHttpRequest();
+            req.open("GET", "player.php?q=" + str, true);
+            req.send(null);
+            req.onreadystatechange = function () {
+                if (req.readyState == 4 && req.status == 200) {
+                    document.getElementById("res").innerHTML = req.responseText;
+                }
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <form>
+        select player name from list: <br>
+        <select name="Pnames" onchange="findplayer(this.value)">
+            <option>Select Name :</option>
+            <option>Rais</option>
+            <option>Smith</option>
+            <option>Virat</option>
+        </select>
+    </form>
+    <div id="res">Player Details Are Here : <br></div>
+</body>
+
+</html>
