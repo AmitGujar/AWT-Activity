@@ -1,3 +1,39 @@
 body {
     scroll-behavior: smooth;
 }
+
+.title {
+    text-align: center;
+}
+
+.subheading {
+    font-size: 20px;
+}
+
+.get-started {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#get-started {
+    font-size: 19px;
+}
+
+.footer {
+    background-color: #141414;
+    color: #ddd3dd;
+    padding-top: 70px;
+}
+
+.footer-headings {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.footer-subheadings {
+    font-size: 18px;
+}
+
+.credits {
+    text-align: center;
+}
