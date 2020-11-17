@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biography>	
+ <item>
+	<name>A Beautiful Mind by Sylvia Nasar</name>
+	<auth>John Nash</auth>
+	<description>This biography of esteemed mathematician John Nash was both a finalist for the 1998 Pulitzer Prize and the basis for the award-winning film of the same name. Nasar thoroughly explores Nash’s prestigious career, from his beginnings at MIT to his work at the RAND Corporation — as well the internal battle he waged against schizophrenia, a disorder that nearly derailed his life.</description>
+ </item>
+ <item>
+	<name>Alan Turing: The Enigma</name>
+	<auth>Andrew Hodges</auth>
+	<description>Hodges’ 1983 biography of Alan Turing sheds light on the inner workings of this brilliant mathematician, cryptologist, and computer pioneer. Indeed, despite the title (a nod to his work during WWII), a great deal of the “enigmatic” Turing is laid out in this book. It covers his heroic code-breaking efforts during the war, his computer designs and contributions to mathematical biology in the years following, and of course, the vicious persecution that befell him in the 1950s — when homosexual acts were still a crime punishable by English law.</description>
+ </item>
+ <item>
+	<name>Alexander Hamilton</name>
+	<auth>Ron Chernow</auth>
+	<description>on Chernow’s Alexander Hamilton is not only the inspiration for a hit Broadway musical, but also a work of creative genius itself. This massive undertaking of over 800 pages details every knowable moment of the youngest Founding Father’s life: from his role in the Revolutionary War and early American government to his sordid (and ultimately career-destroying) affair with Maria Reynolds. He may never have been president, but he was a fascinating and unique figure in American history — plus it’s fun to get the truth behind the catchy songs.</description>
+ </item>
+ <item>
+	<name>Barracoon: The Story of the Last "Black Cargo"</name>
+	<auth>Zora Neale Hurston</auth>
+	<description>A prolific essayist, short story writer, and novelist, Hurston turned her hand to biographical with this incredible work, kept under lock. It’s based on Hurston’s interviews with the last remaining survivor of the Middle Passage slave trade, a man named Cudjo Lewis. Rendered in searing detail and Lewis’ highly affecting African-American vernacular, this biography of the “last black cargo” will transport you back in time to an era that, chillingly, is not nearly as far away from us as it feels.</description>
+ </item>
+ <item>
+	<name>Churchill: A Life</name>
+	<auth>Martin Gilbert</auth>
+	<description>Though many a biography of him has been attempted, Gilbert’s is the final authority on Winston Churchill — considered by many to be Britain’s greatest prime minister ever. A dexterous balance of in-depth research and intimately drawn details makes this biography a perfect tribute to the mercurial man who led Britain through World War II.</description>
+ </item>
+ <item>
+	<name>E=mc²: A Biography</name>
+	<auth>David Bodanis</auth>
+	<description>This “biography of the world’s most famous equation” is a one-of-a-kind take on the genre: rather than being the story of Einstein, it really does follow the history of the equation itself. From the origins and development of its individual elements (energy, mass, and light) to their ramifications in the twentieth century, Bodanis turns what could be an extremely dry subject into engaging fare for readers of all stripes.</description>
+ </item>
+
+</biography> 

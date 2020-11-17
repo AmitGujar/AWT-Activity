@@ -1,3 +1,5 @@
+Create Database and Table in Postgres before running site.
+
 DATABASE NAME = project
 PASSWORD = 1234
 HOST = localhost

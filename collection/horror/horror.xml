@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<horror>	
+ <item>
+	<name>House of Leaves</name>
+	<auth>Mark Z. Danielewski</auth>
+	<description>Put simply, House of Leaves is one of the most frightening books ever written.</description>
+ </item>
+ <item>
+	<name>At the Mountains of Madness</name>
+	<auth>H. P. Lovecraft</auth>
+	<description>At the Mountains of Madness is a science fiction-horror novella by American author H. P. Lovecraft, written in February/March 1931 and rejected that year by Weird Tales editor Farnsworth Wright on the grounds of its length.</description>
+ </item>
+ <item>
+	<name>The Bad Seed</name>
+	<auth>William March</auth>
+	<description>The Bad Seed was an instant bestseller and finalist for the National Book Award.</description>
+ </item>
+ <item>
+	<name>Beloved</name>
+	<auth>Toni Morrison</auth>
+	<description>It'ss difficult the crushing emotional weight and deep-seated sense of dread that comes with each page of Toni Morrisonâ€˜s Pulitzer Prize winner</description>
+ </item>
+ <item>
+	<name>The Bloody Chamber</name>
+	<auth>Angela Carter</auth>
+	<description>Shirley Jackson gets a lot of (well-deserved) love and respect these days as a major talent in midcentury horror and mystery, but we should spare a thought for the criminally underappreciated Angela Carter.</description>
+ </item>
+ <item>
+	<name>Carrie</name>
+	<auth>Stephen King</auth>
+	<description>There are many incredible Stephen King novels, but Carrie was his first and remains our favorite.</description>
+ </item>
+</horror> 

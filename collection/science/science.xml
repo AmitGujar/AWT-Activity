@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<science>	
+ <item>
+	<name>A Journey to the Center of the Earth</name>
+	<auth>Jules Verne</auth>
+	<description>Famous adventure tale that practically launched the genre in 1864.</description>
+ </item>
+ <item>
+	<name>The War of the Worlds</name>
+	<auth>H. G. Wells</auth>
+	<description>he Martians come to England. A famous example of invasion literature from 1890.</description>
+ </item>
+ <item>
+	<name>Commonwealth</name>
+	<auth>Ann Patchett</auth>
+	<description>In Commonwealth, Ann Patchett brilliantly weaves together flawed families who fail one another over the decades but keep trying and trusting in spite of the failures.</description>
+ </item>
+ <item>
+	<name>Beartown</name>
+	<auth>Fredrik Backman</auth>
+	<description>In the declining Swedish town of Beartown, hockey is the one bright spot. The talented junior team–and one player in particular–have the potential to win it all and revitalize the town.</description>
+ </item>
+ <item>
+	<name>The heart's invisible furies</name>
+	<auth>John Boyne</auth>
+	<description>Cyril Avery was born to an unwed mother in Ireland in the 1940s–an unthinkable and shameful thing, at that time. Cyril is adopted by Charles and Maude Avery, who are indifferent and self-centered, but not neglectful.</description>
+ </item>
+ <item>
+	<name>Room</name>
+	<auth>Emma Donoghue</auth>
+	<description>Five-year-old Jack has never known the world beyond Room. He lives there with Ma, who has made it into a world for him. But she has been a prisoner for seven years and she knows it’s time for Jack–and her–to have more of a life. But the terrifying escape plot is only the first part of the challenge.</description>
+ </item>
+
+</science> 

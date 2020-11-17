@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<child>	
+ <item>
+	<name>Doraemon</name>
+	<auth>Leo Tolstoy</auth>
+	<description>This is an story of a robot which comes from future to help a boy.</description>
+ </item>
+ <item>
+	<name>Shin-Shan</name>
+	<auth>F. Scott Fitzgerald</auth>
+	<description>This is a story of a little boy who enjoys his life.</description>
+ </item>
+ <item>
+	<name>Panchatantra</name>
+	<auth>Vishnu Sharma</auth>
+	<description>Ancient Indian inter-related collection of animal fables in verse and prose, in a frame story format. Similar stories are found in later works including Aesop's Fables and the Sindbad tales in Arabian Nights.</description>
+ </item>
+  <item>
+	<name>Aesop's Fables</name>
+	<auth>Aesop</auth>
+	<description>Aesop's Fables, or the Aesopica, is a collection of fables credited to Aesop, a slave and storyteller believed to have lived in ancient Greece between 620 and 564 BCE. Of diverse origins, the stories associated with his name have descended to modern times through a number of sources and continue to be reinterpreted in different verbal registers and in popular as well as artistic media</description>
+ </item>
+  <item>
+	<name>Kathasaritsagara</name>
+	<auth>Somadeva</auth>
+	<description>Collection of Indian legends, fairy tales and folk tales as retold by a Saivite Brahmin named Somadeva. Generally believed to derive from Gunadhya's Brhat-katha, written in Paisachi dialect from the south of India.</description>
+ </item>
+  <item>
+	<name>A Little Princess</name>
+	<auth>Frances Hodgson Burnett</auth>
+	<description>Sara is sent to a strict boarding school after her father enlists in WWI. When he is presumed dead, the headmistress, knowing she will not receive any more money, forces the girl to become a servant.</description>
+ </item>
+
+</child> 

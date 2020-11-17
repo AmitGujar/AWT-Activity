@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fantasy>	
+ <item>
+	<name>A Game of Thrones</name>
+	<auth>Mark Z. Danielewski</auth>
+	<description>Put simply, A Game of Thrones  is one of the most frightening books ever written.</description>
+ </item>
+ <item>
+	<name>The Fellowship of the Ring</name>
+	<auth>J. R. R. Tolkien</auth>
+	<description>One ring rules them all. The Dark Lord put all of his powers in One Ring that was taken from him.</description>
+ </item>
+ <item>
+	<name>The Lion, the Witch and the Wardrobe</name>
+	<auth>C. S. Lewis</auth>
+	<description>The land where children tumble out of a wardrobe, a secret country where only Lucy, Peter, Susan, and Edmund are known.</description>
+ </item>
+ <item>
+	<name>The Colour of Magic</name>
+	<auth>Terry Pratchett</auth>
+	<description>This is an interesting book.</description>
+ </item>
+ <item>
+	<name>The Bloody Chamber</name>
+	<auth>Angela Carter</auth>
+	<description>Shirley Jackson gets a lot of (well-deserved) love and respect these days as a major talent in midcentury fantasy and mystery, but we should spare a thought for the criminally underappreciated Angela Carter.</description>
+ </item>
+ <item>
+	<name>Carrie</name>
+	<auth>Stephen King</auth>
+	<description>There are many incredible Stephen King novels, but Carrie was his first and remains our favorite.</description>
+ </item>
+</fantasy> 

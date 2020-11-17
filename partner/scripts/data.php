@@ -2,6 +2,7 @@
 // Create connection
 $db = pg_connect("host=localhost user=postgres dbname=project password=1234");
 
+// checking connection
 if ($db) {
     echo "<h2>Connected to Database</h2>";
 } else {
@@ -20,7 +21,7 @@ if (isset($_POST['submit'])) {
     if ($query) {
         echo  "<h2>Record Successfully Added!</h2>";
     } else {
-        echo "create table first in postgres";
+        echo "Failed to Add Records";
     }
     $sql = "select * from bookshelf";
     $r = pg_query($db, $sql);
