@@ -6,6 +6,7 @@
 	<description>You really can't go wrong with any of Jasmine Guillory's fun, romantic romps, but this Reese's Book Club pick is especially great. Freelance writer Nik's boyfriend proposes at a Dodger's game, and the dude can't even spell her name right. She says no (duh), and the video goes viral. Handsome doctor Carlos sweeps her away from the frenzy, but he can't possibly be the real deal. Or can he? </description>
  </item>
  <item>
+<<<<<<< HEAD
 	<name>Romeo and Juliet</name>
 	<auth>MARGARET MITCHELL</auth>
 	<description>If you've never read this 900-plus-page Civil War saga (or watched the four-hour movie), it's never too late. Scarlett O'Hara, her "perfect knight" Ashley Wilkes, and the scandalous yet dashing Rhett Butler stand the test of time. Readers have devoured more than 30 million copies of this Pulitzer Prize winner since 1936 and once you dive in, you'll understand why. </description>
@@ -14,6 +15,16 @@
 	<name>The Fault In Our Stars</name>
 	<auth>ISABEL ALLENDE</auth>
 	<description>This brand new read from romance titan Isabel Allende follows pregnant widow Roser and her deceased lover's brother, Victor as they flee fascist Spain aboard a ship chartered by the poet Pablo Neruda. As they start over in Chile, the two face trials and tribulations, but hope (and each other) keeps them strong. </description>
+=======
+	<name>Romeo & Juliet</name>
+	<auth>William Shakespeare</auth>
+	<description>Romeo and Juliet is a tragedy written by William Shakespeare early in his career about two young star-crossed lovers whose deaths ultimately reconcile their feuding families. It was among Shakespeare's most popular plays during his lifetime and, along with Hamlet, is one of his most frequently performed plays.</description>
+ </item>
+ <item>
+	<name>The Fault in Our Stars</name>
+	<auth>John Green</auth>
+	<description>Hazel Grace Lancaster (Shailene Woodley), a 16-year-old cancer patient, meets and falls in love with Gus Waters (Ansel Elgort), a similarly afflicted teen from her cancer support group. Hazel feels that Gus really understands her. They both share the same acerbic wit and a love of books, especially Grace's touchstone, "An Imperial Affliction" by Peter Van Houten. When Gus scores an invitation to meet the reclusive author, he and Hazel embark on the adventure of their brief lives. </description>
+>>>>>>> e56217bd18ab4b18cc723681fd9d606c0cbfdec9
  </item>
  <item>
 	<name>Pride and Prejudice</name>
