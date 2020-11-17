@@ -16,11 +16,7 @@ foreach ($c2 as $k) {
 		echo "<br><h5>Name = $nm </h5>";
 		echo "<br><h5>Author Name = $p </h5>";
 		echo "<br><h5>Catagory : Literature</h5>";
-<<<<<<< HEAD
 		echo "<br><h5>Summary : $d </h5><br>";
-=======
-		echo "<br><h5>Review : $d </h5><br>";
->>>>>>> e56217bd18ab4b18cc723681fd9d606c0cbfdec9
 	}
 }
 

@@ -20,8 +20,5 @@ foreach ($c2 as $k) {
 }
 
 //name auth cat summ
-<<<<<<< HEAD
 
 ?>
-=======
->>>>>>> e56217bd18ab4b18cc723681fd9d606c0cbfdec9
