@@ -2,6 +2,7 @@
 // Create connection
 $db = pg_connect("host=localhost user=postgres dbname=project password=1234");
 
+// checking connection
 if ($db) {
     echo "<h2>Connected to Database</h2>";
 } else {

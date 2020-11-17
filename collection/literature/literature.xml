@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<literature>	
+ <item>
+	<name>Anna Karenina</name>
+	<auth>Leo Tolstoy</auth>
+	<description>The novel was especially revolutionary in its treatment of women, depicting prejudices and social hardships of the time with vivid emotion.</description>
+ </item>
+ <item>
+	<name>The Great Gatsby</name>
+	<auth>F. Scott Fitzgerald</auth>
+	<description> The novel is told from the perspective of a young man named Nick Carraway who has recently moved to New York City and is befriended by his eccentric nouveau riche neighbor with mysterious origins, Jay Gatsby. The Great Gatsby provides an insider’s look into the Jazz Age of the 1920s in United States history while at the same time critiquing the idea of the “American Dream.”</description>
+ </item>
+ <item>
+	<name>One Hundred Years of Solitude</name>
+	<auth>Gabriel García Márquez</auth>
+	<description>The novel tells the story of seven generations of the Buendía family and follows the establishment of their town Macondo until its destruction along with the last of the family’s descendents. In fantastical form, the novel explores the genre of magic realism by emphasizing the extraordinary nature of commonplace things while mystical things are shown to be common. Márquez highlights the prevalence and power of myth and folktale in relating history and Latin American culture. The novel won many awards for Márquez, leading the way to his eventual honor of the Nobel Prize for Literature in 1982 for his entire body of work, of which One Hundred Years of Solitude is often lauded as his most triumphant.</description>
+ </item>
+ <item>
+	<name>A Passage to India</name>
+	<auth>E.M. Forster</auth>
+	<description>E.M. Forster wrote his novel A Passage to India after multiple trips to the country throughout his early life. The book was published in 1924 and follows a Muslim Indian doctor named Aziz and his relationships with an English professor, Cyril Fielding, and a visiting English schoolteacher named Adela Quested. When Adela believes that Aziz has assaulted her while on a trip to the Marabar caves near the fictional city of Chandrapore, where the story is set, tensions between the Indian community and the colonial British community rise. The possibility of friendship and connection between English and Indian people, despite their cultural differences and imperial tensions, is explored in the conflict. The novel’s colorful descriptions of nature, the landscape of India, and the figurative power that they are given within the text solidifies it as a great work of fiction.</description>
+ </item>
+ <item>
+	<name>Invisible Man</name>
+	<auth>Ralph Ellison</auth>
+	<description>ften confused with H.G. Wells’s science-fiction novella of nearly the same name (just subtract a “The”), Ralph Ellison’s Invisible Man is a groundbreaking novel in the expression of identity for the African American male. The narrator of the novel, a man who is never named but believes he is “invisible” to others socially, tells the story of his move from the South to college and then to New York City. In each location he faces extreme adversity and discrimination, falling into and out of work, relationships, and questionable social movements in a wayward and ethereal mindset. </description>
+ </item>
+ <item>
+	<name>Don Quixote</name>
+	<auth>Don Quixote</auth>
+	<description>The novel, which is very regularly regarded as one of the best literary works of all time, tells the story of a man who takes the name “Don Quixote de la Mancha” and sets off in a fit of obsession over romantic novels about chivalry to revive the custom and become a hero himself. The character of Don Quixote has become an idol and somewhat of an archetypal character, influencing many major works of art, music, and literature since the novel’s publication. The text has been so influential that a word, quixotic, based on the Don Quixote character, was created to describe someone who is, “foolishly impractical especially in the pursuit of ideals; especially: marked by rash lofty romantic ideas or extravagantly chivalrous action.”</description>
+ </item>
+
+</literature> 

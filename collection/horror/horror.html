@@ -1,0 +1,143 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Horror Collection</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous">
+    </script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous">
+    </script>
+    <!-- pagelevel javascript -->
+    <script type="text/javascript" language="javascript">
+        function show_detail(str) {
+            var req = new XMLHttpRequest();
+            req.open("GET", "horror.php?q=" + str, true);
+            req.send(null);
+            req.onreadystatechange = function () {
+                if (req.readyState == 4 && req.status == 200) {
+                    document.getElementById("res").innerHTML = req.responseText;
+                }
+            }
+        }
+    </script>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-sm bg-danger navbar-dark">
+        <div class="container" id="navbar">
+            <a class="navbar-brand" href="#">BookShelf</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class=" nav-item active">
+                        <a class="nav-link" href="/AWT-Activity/home/index.html">Home</a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class="nav-link" href="/AWT-Activity/partner/index.html">Partner</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- navbar ends here -->
+    <div class="container">
+        <br>
+        <div class="row">
+            <div class="col-lg-6"><br>
+                <div class="title"><br>
+                    <h1>Trending this week</h1>
+                </div><br>
+                <ol type="1" class="list">
+                    <li>House of Leaves</li>
+                    <li>At the Mountains of Madness</li>
+                    <li>The Bad Seed</li>
+                    <li>Beloved</li>
+                    <li>The Bloody Chamber </li>
+                    <li>Carrie</li>
+                </ol>
+            </div><br>
+            <div class="col-lg-6">
+                <img src="styles/books.png" class="img-thumbnail">
+            </div>
+        </div>
+        <form>
+            <h2>Choose to see details :</h2> <br>
+            <select name="items" onChange="show_detail(this.value)">
+                <option>Select Item</option>
+                <option>House of Leaves</option>
+                <option>At the Mountains of Madness</option>
+                <option>The Bad Seed</option>
+                <option>Beloved</option>
+                <option>The Bloody Chamber</option>
+                <option>Carrie</option>
+            </select>
+        </form>
+        <div id="res"></div>
+    </div>
+
+    <!-- footer starts from here -->
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3">
+                    <p class="footer-headings">
+                        Community
+                    </p><br>
+                    <div class="footer-subheadings">
+                        <p>Articles</p>
+                        <p>Author Interviews</p>
+                        <p>Newsletter</p>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <p class="footer-headings">
+                        Library
+                    </p><br>
+                    <div class="footer-subheadings">
+                        <p>Genres</p>
+                        <p>Languages</p>
+                        <p>Authors</p>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <p class="footer-headings">
+                        Company
+                    </p><br>
+                    <div class="footer-subheadings">
+                        <p>Careers</p>
+                        <p>About/Contact</p>
+                        <p>Author Services</p>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <p class="footer-headings">
+                        Social
+                    </p><br>
+                    <div class="footer-subheadings">
+                        <p>Twitter</p>
+                        <p>Linkedin</p>
+                        <p>Instagram</p>
+                    </div>
+                </div>
+            </div>
+            <hr><br>
+            <div class="credits">
+                Created and Maintained by Amit Gujar, Sourabh Shedge, Siddharth Shukla.
+            </div>
+        </div><br><br>
+    </div>
+</body>
+
+</html>
